@@ -31,14 +31,13 @@ author:
   employer: |
   "East China Normal University"
   "New York University (Shanghai)"
-  uri              : # URL
-  email            : "none@example.org" 
+  uri              : https://english.ecnu.edu.cn
+  email            : "alicegao1994@gmail.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AL3_ziiZZaBBr2qRRILX4OTyUbTxvaNsgqO9h-BHqIhN2FjzZrdnNsspR0MViJEHcRzQGrDR0jIJDPc6X0pDGbBYEt1A_lBz_qhMeRWmV8I&user=jNJhroYAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6088-494X"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -48,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "alicepsychology.github.io"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
