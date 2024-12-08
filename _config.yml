@@ -77,11 +77,58 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: "Books"
+    items: []
+
   manuscripts:
-    title: 'Journal Articles'    
+    title: "Journal Articles"
+    items:
+      - title: "Perceived discrimination as a mediator of ACEs and psychological distress"
+        authors: "Rashmi Gangamma, Shaelise Tor, Vanessa Whitt, Brandon Hollie, Qianhui Gao, Armirah Stephens, Ryan Hutchings, Linda Stone Fish"
+        journal: "The American Journal of Family Therapy"
+        volume: "49"
+        issue: "3"
+        pages: "282–298"
+        year: 2020
+        publisher: "Taylor & Francis"
+
+      - title: "Reward processing in gain versus loss context: An ERP study"
+        authors: "Ya Zheng, Qi Li, Yuanyuan Zhang, Qi Li, Huijuan Shen, Qianhui Gao, Shiyu Zhou"
+        journal: "Psychophysiology"
+        volume: "54"
+        issue: "7"
+        pages: "1040–1053"
+        year: 2017
+        publisher: "Wiley Online Library"
+
+      - title: "An Experiment Using a Sexual Strategies Explanation to Alleviate Internalized Homophobia Among Men Who Have Sex With Men in China"
+        authors: "Qianhui Gao, Jan Antfolk, Pekka Santtila"
+        journal: "Evolutionary Psychology"
+        volume: "21"
+        issue: "2"
+        pages: "14747049231179151"
+        year: 2023
+        publisher: "SAGE Publications Sage CA"
+
+      - title: "An experimental study using a sexual strategies explanation to reduce homophobia toward gay men among lay people and healthcare professionals in China"
+        authors: "Qianhui Gao, Jan Antfolk, Pekka Santtila"
+        journal: "Frontiers in Psychology"
+        volume: "14"
+        pages: "1143584"
+        year: 2023
+        publisher: "Frontiers Media SA"
+
+      - title: "抑郁症的嗅觉功能缺陷: 发现与观点"
+        authors: "袁翠, 高千惠, 刘雪林, 周世昱, 靳媛"
+        journal: "医学与哲学: B"
+        issue: "8"
+        pages: "60–63"
+        year: 2016
+        publisher: ""
+
   conferences:
-    title: 'Conference Papers'
+    title: "Conference Papers"
+    items: []
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
