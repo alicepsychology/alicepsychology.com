@@ -24,14 +24,10 @@ author:
   avatar           : "images/WeChat Image_20221223132420.jpg"
   name             : "Alice Gao 高千惠"
   pronouns         : # example: "she/her"  
-  bio              : |
-  "Ph.D in Applied Psychology" 
-  "M.A.Marriage and Family Therapy"
+  bio              : "Ph.D in Applied Psychology" 
   location         : "China/US/Canada/Europe"
-  employer: |
-  "East China Normal University"
-  "New York University (Shanghai)"
-  uri              : https://english.ecnu.edu.cn
+  employer: "East China Normal University"
+   uri              : https://english.ecnu.edu.cn
   email            : "alicegao1994@gmail.com" 
 
   # Academic websites
