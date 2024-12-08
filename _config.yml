@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+s# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -24,9 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Alice Gao 高千惠"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D in Applied Psychology and M.A.Marriage & Family Therapy"
+  bio              : "Ph.D in Applied Psychology\r\n M.A.Marriage & Family Therapy"
   location         : "China/US/Canada/Europe"
-  employer         : "New York University (Shanghai)"
+  employer         : ""
+  employer         : "New York University (Shanghai)\r\n East China Normal University"
   uri              : # URL 
   email            : "alicegao1994@gmail.com" 
 
