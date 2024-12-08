@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Alice Gao / Psychology"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Alice Gao"
+name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://alicepsychology.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,22 +21,22 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/WeChat Image_20221223132420.jpg"
-  name             : "Alice Gao 高千惠"
+  avatar           : "profile.png"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D in Applied Psychology & M.A.Marriage and Family Therapy"
-  location         : "China/US/Canada/Europe"
-  employ           : "New York University (Shanghai)"
-  uri              : # Name
-  email            : "alicegao1994@gmail.com" 
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
+  uri              : # URL
+  email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AL3_ziiZZaBBr2qRRILX4OTyUbTxvaNsgqO9h-BHqIhN2FjzZrdnNsspR0MViJEHcRzQGrDR0jIJDPc6X0pDGbBYEt1A_lBz_qhMeRWmV8I&user=jNJhroYAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-6088-494X"
+  orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : # URL
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -44,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "alicepsychology"
+  github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # Replace this with you Bluesky username
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/alicepsychology"
+  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -77,58 +77,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: "Books"
-    items: []
-
+    title: 'Books'
   manuscripts:
-    title: "Journal Articles"
-    items:
-      - title: "Perceived discrimination as a mediator of ACEs and psychological distress"
-        authors: "Rashmi Gangamma, Shaelise Tor, Vanessa Whitt, Brandon Hollie, Qianhui Gao, Armirah Stephens, Ryan Hutchings, Linda Stone Fish"
-        journal: "The American Journal of Family Therapy"
-        volume: "49"
-        issue: "3"
-        pages: "282–298"
-        year: 2020
-        publisher: "Taylor & Francis"
-
-      - title: "Reward processing in gain versus loss context: An ERP study"
-        authors: "Ya Zheng, Qi Li, Yuanyuan Zhang, Qi Li, Huijuan Shen, Qianhui Gao, Shiyu Zhou"
-        journal: "Psychophysiology"
-        volume: "54"
-        issue: "7"
-        pages: "1040–1053"
-        year: 2017
-        publisher: "Wiley Online Library"
-
-      - title: "An Experiment Using a Sexual Strategies Explanation to Alleviate Internalized Homophobia Among Men Who Have Sex With Men in China"
-        authors: "Qianhui Gao, Jan Antfolk, Pekka Santtila"
-        journal: "Evolutionary Psychology"
-        volume: "21"
-        issue: "2"
-        pages: "14747049231179151"
-        year: 2023
-        publisher: "SAGE Publications Sage CA"
-
-      - title: "An experimental study using a sexual strategies explanation to reduce homophobia toward gay men among lay people and healthcare professionals in China"
-        authors: "Qianhui Gao, Jan Antfolk, Pekka Santtila"
-        journal: "Frontiers in Psychology"
-        volume: "14"
-        pages: "1143584"
-        year: 2023
-        publisher: "Frontiers Media SA"
-
-      - title: "抑郁症的嗅觉功能缺陷: 发现与观点"
-        authors: "袁翠, 高千惠, 刘雪林, 周世昱, 靳媛"
-        journal: "医学与哲学: B"
-        issue: "8"
-        pages: "60–63"
-        year: 2016
-        publisher: ""
-
+    title: 'Journal Articles'    
   conferences:
-    title: "Conference Papers"
-    items: []
+    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
