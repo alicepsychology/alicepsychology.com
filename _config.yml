@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Alice Gao / Home Page"
+title                    : "Alice (Qianhui) Gao / Home Page"
 title_separator          : "-"
-name                     : &name "Alice Gao"
+name                     : &name "Alice (Qianhui) Gao"
 description              : &description "Psychology Research"
 url                      : https://alicepsychology.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
