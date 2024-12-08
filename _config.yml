@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Alice (Qianhui) Gao / Home Page"
+title                    : "Alice Qianhui Gao / Psychology"
 title_separator          : "-"
-name                     : &name "Alice (Qianhui) Gao"
+name                     : &name "Alice Qianhui Gao"
 description              : &description "Psychology Research"
 url                      : https://alicepsychology.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "https://alicepsychology.com"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Alice Gao 高千惠"
+  name             : "Alice Qianhui Gao 高千惠"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D in Applied Psychology & M.A.Marriage and Family Therapy"
   location         : "China/US/Canada/Europe"
