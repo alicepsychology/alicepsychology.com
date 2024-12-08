@@ -24,8 +24,9 @@ author:
   avatar           : "images/WeChat_Image_20221223132420.jpg"
   name             : "Alice Gao 高千惠"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D in Applied Psychology & 
-                      M.A.11 Marriage and Family Therapy"
+  bio              : |
+          "Ph.D in Applied Psychology" 
+          "M.A.11 Marriage and Family Therapy"
   location         : "China/US/Canada/Europe"
   employer         : "East China Normal University"
   URI              : "alicepsychology.com"
