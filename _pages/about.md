@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alice Gao 高千惠"
+title: "Alice Qianhui Gao 高千惠"
 author_profile: true
 redirect_from: 
   - /about/
