@@ -30,9 +30,9 @@ Bachelor of Science, Applied Psychology (Sep 2013 - July 2017) <br />
 
 **Publications**
 ---
-**[1]** [PDF](https://doi.org/10.3389/fpsyg.2023.1143584) Gao, Q., Antfolk, J., & Santtila, P. (2023). An experimental study using a sexual strategies explanation to reduce homophobia toward gay men among lay people and healthcare professionals in China. _Frontiers in Psychology_, 14. https://doi.org/10.3389/fpsyg.2023.1143584<br /> 
-**[2]** [PDF](https://doi.org/10.1177/14747049231179151) Gao, Q., Antfolk, J., & Santtila, P. (2023). An Experiment Using a Sexual Strategies Explanation to Alleviate Internalized Homophobia Among Men Who Have Sex With Men in China. _Evol Psychol_, 21(2). https://doi.org/10.1177/14747049231179151<br /> 
-**[3]** [PDF](https://doi.org/10.1080/01926187.2020.1813656) Gangamma, R., Tor, S., Whitt, V., Hollie, B., Gao, Q., Stephens, A., Hutchings, R., & Stone Fish, L. (2020). Perceived Discrimination as a Mediator of ACEs and Psychological Distress. _The American Journal of Family Therapy_, 49(3), 282-298. https://doi.org/10.1080/01926187.2020.1813656<br /> 
+**[1]** Gao, Q., Antfolk, J., & Santtila, P. (2023). An experimental study using a sexual strategies explanation to reduce homophobia toward gay men among lay people and healthcare professionals in China. _Frontiers in Psychology_, 14. https://doi.org/10.3389/fpsyg.2023.1143584 [PDF](https://doi.org/10.3389/fpsyg.2023.1143584)<br /> 
+**[2]** Gao, Q., Antfolk, J., & Santtila, P. (2023). An Experiment Using a Sexual Strategies Explanation to Alleviate Internalized Homophobia Among Men Who Have Sex With Men in China. _Evol Psychol_, 21(2). https://doi.org/10.1177/14747049231179151 [PDF](https://doi.org/10.1177/14747049231179151) <br /> 
+**[3]** Gangamma, R., Tor, S., Whitt, V., Hollie, B., Gao, Q., Stephens, A., Hutchings, R., & Stone Fish, L. (2020). Perceived Discrimination as a Mediator of ACEs and Psychological Distress. _The American Journal of Family Therapy_, 49(3), 282-298. https://doi.org/10.1080/01926187.2020.1813656 [PDF](https://doi.org/10.1080/01926187.2020.1813656)<br /> 
 **[4]** Ya Zheng, Qi Li, YuanYuan Zhuang, Qi Li, Huijuan Shen, Qianhui Gao, Shiyu Zhou. Reward processing in gain versus loss context: An ERP study. PSYCHOPHYSIOLOGY. Publication status: Corrections received by production editor on 7 March 2017<br />
 **[5]** 袁翠, 高千惠, 刘雪林, 周世昱, 靳媛. 抑郁症的嗅觉功能缺陷：发现与观点. _医学与哲学_. 第37卷8B期, 60-63页 (8月, 2016)<br />
 
