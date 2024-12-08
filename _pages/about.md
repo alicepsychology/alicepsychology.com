@@ -10,7 +10,7 @@ redirect_from:
 **Research Interest:** Evolutionary Psychology, Human Sexuality<br />
 **Back ground:** I obtained a Master’s degree in Marriage and Family Therapy from Syracuse University, where I provided over **500+** hours of face-to-face counseling to local residents with **170+** hours of supervision. Upon returning to China, I served as a part-time counselor at Shenzhen University, providing psychological support to students. Subsequently, I joined the joint Ph.D. program at East China Normal University and NYU Shanghai, conducting research under Professor Pekka Santtila. My doctoral research focuses on using evolutionary psychology theories to reduce psychological distress in sexual minorities and stepfamilies through online self-help interventions. These findings have been published and presented at academic conferences.<br />
 **Email:** alicegao1994@gmail.com <br />
-**Resume:** [Click to Download]()
+**Resume:** [Click to Download](../files/Resume - Qianhui Gao.pdf)
 
 **Back Ground**<br />
 ---
