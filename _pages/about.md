@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-**<p align="center">Alice Gao 高千惠</p>**
----
 **Research Interest:** Evolutionary Psychology, Human Sexuality<br />
 **Back ground:** Ph.D in Applied Psychology, M.A.Marriage and Family Therapy. Provided **500+** hours of psychotherapy for locals; received **176** hours supervision<br />
 **Email:** alicegao1994@gmail.com <br />
