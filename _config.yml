@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "alicepsychology.com/images/profile.png"
   name             : "Alice Gao 高千惠"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D in Applied Psychology & M.A.Marriage and Family Therapy"
