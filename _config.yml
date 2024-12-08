@@ -8,32 +8,33 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Alice Gao / 高千惠"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Alice Gao"
-description              : &description "Ph.D in Applied Psychology & M.A.Marriage and Family Therapy"
-url                      : https://alicepsychology.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alicepsychology.github.io"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/WeChat Image_20221223132420.jpg"
-  name             : "Alice Gao 高千惠"
+  avatar           : "profile.png"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D in Applied Psychology" 
-  location         : "China/US/Canada/Europe"
-  employer         : "East China Normal University"
-  uri              : https://english.ecnu.edu.cn
-  email            : "alicegao1994@gmail.com" 
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
+  uri              : # URL
+  email            : "none@example.org" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AL3_ziiZZaBBr2qRRILX4OTyUbTxvaNsgqO9h-BHqIhN2FjzZrdnNsspR0MViJEHcRzQGrDR0jIJDPc6X0pDGbBYEt1A_lBz_qhMeRWmV8I&user=jNJhroYAAAAJ"
+  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-6088-494X"
+  orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -43,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "alicepsychology.github.io"
+  github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
