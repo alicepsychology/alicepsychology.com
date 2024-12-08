@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/WeChatImage_20221223132420.jpg"
+  avatar           : "images/WeChat_Image_20221223132420.jpg"
   name             : "Alice Gao 高千惠"
   pronouns         : # example: "she/her"  
   bio              : 
