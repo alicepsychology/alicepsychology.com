@@ -12,7 +12,7 @@ title                    : "Alice Gao / 高千惠"
 title_separator          : "-"
 name                     : &name "Alice Gao"
 description              : &description "Applied Psychology Researcher"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://alicepsychology.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -44,7 +44,7 @@ author:
   # Social media
   facebook         : # Username
   instagram        : # Username
-  linkedin         : # Username
+  linkedin         : Alice Gao "https://www.linkedin.com/in/alice-gao-50447a264/"
   weibo            : # Username
   Zhihu            : # Username
   youtube          : # Username
