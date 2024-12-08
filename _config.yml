@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/WeChat_Image_20221223132420.jpg"
+  avatar           : "images/WeChat_Image_20221223132420.jpg"
   name             : "Alice Gao 高千惠"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D in Applied Psychology & M.A.Marriage and Family Therapy"
   location         : "China/US/Canada/Europe"
-  Institution         : "New York University (Shanghai)"
-  URI              : "alicepsychology.github.io"
+  institution      : "New York University (Shanghai)"
+  uri              : "alicepsychology.github.io"
   email            : "alicegao1994@gmail.com" 
 
   # Academic websites
