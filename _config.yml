@@ -21,8 +21,8 @@ repository               : "alicepsychology.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Alice Gao高千惠"
+  avatar           : "images/WeChat Image_20221223132420.jpg"
+  name             : "Alice Gao 高千惠"
   pronouns         : # example: "she/her"  
   bio              : |
   "Ph.D in Applied Psychology" 
