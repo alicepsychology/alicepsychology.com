@@ -8,7 +8,13 @@ redirect_from:
 ---
 
 
-**Background:** I obtained a Master’s degree in Marriage and Family Therapy from Syracuse University, where I provided over **500+** hours of face-to-face counseling to local residents with **170+** hours of supervision. Upon returning to China, I served as a part-time counselor at Shenzhen University, providing psychological support to students. Subsequently, I joined the joint Ph.D. program at East China Normal University and NYU Shanghai, conducting research under Professor Pekka Santtila. My doctoral research focuses on using evolutionary psychology theories to reduce psychological distress in sexual minorities and stepfamilies through online self-help interventions. These findings have been published and presented at academic conferences.<br />
+My vision is to help everyone experience genuine laughter and heartfelt happiness✨
+
+I completed a joint doctoral program between East China Normal University and NYU Shanghai under the supervision of Professor Pekka Santtila, focusing on empirical research in psychological interventions. Grounded in evolutionary psychology, my research aims to develop online self-help tools tailored for diverse populations. Through publishing articles in academic journals and presenting at international conferences, I share innovative approaches to mental health services and their outcomes with both academic peers and the broader public, aspiring to integrate these tools into everyday life to benefit more people.
+
+This research builds on the solid foundation I established while pursuing a Master's degree in Marriage and Family Therapy at Syracuse University in the United States. During my studies, I provided over 500 hours of face-to-face counseling to local community members and honed my clinical skills through 170 hours of professional supervision. These experiences deepened my understanding of the value of mental health services and laid a robust practical groundwork for my doctoral research.
+
+Currently, I am dedicated to exploring new formats and expanding the accessibility of mental health services, striving to advance the field and help more people achieve inner peace and lasting happiness.<br />
 
 **Research Interest:** Evolutionary Psychology, Human Sexuality<br />
 
