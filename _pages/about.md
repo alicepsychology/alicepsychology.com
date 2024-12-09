@@ -10,15 +10,16 @@ redirect_from:
 
 My vision is to help everyone experience genuine laughter and heartfelt happiness✨
 
-I completed a joint doctoral program between East China Normal University and NYU Shanghai under the supervision of Professor Pekka Santtila, focusing on empirical research in psychological interventions. Grounded in evolutionary psychology, my research aims to develop online self-help tools tailored for diverse populations. Through publishing articles in academic journals and presenting at international conferences, I share innovative approaches to mental health services and their outcomes with both academic peers and the broader public, aspiring to integrate these tools into everyday life to benefit more people.
+I hold a joint Ph.D. from the East China Normal University and NYU Shanghai Joint Program, where I conducted empirical research on psychological interventions under the guidance of Professor Pekka Santtila. My work focuses on developing online self-help tools grounded in evolutionary psychology, with the goal of seamlessly integrating them into daily life to support diverse populations and maximize their impact.
 
-This research builds on the solid foundation I established while pursuing a Master's degree in Marriage and Family Therapy at Syracuse University in the United States. During my studies, I provided over 500 hours of face-to-face counseling to local community members and honed my clinical skills through 170 hours of professional supervision. These experiences deepened my understanding of the value of mental health services and laid a robust practical groundwork for my doctoral research.
+My foundation in this field was built during my Master’s degree in Marriage and Family Therapy at Syracuse University, where I provided over 500 hours of face-to-face counseling to community members and honed my clinical skills through 170 hours of professional supervision. These hands-on experiences have equipped me with practical insights that deeply inform my current research.
 
-Currently, I am dedicated to exploring new formats and expanding the accessibility of mental health services, striving to advance the field and help more people achieve inner peace and lasting happiness.<br />
+Today, I am dedicated to enhancing the accessibility and effectiveness of mental health services through innovative approaches and technology. My ultimate goal is to empower individuals to achieve inner peace and lasting happiness, making mental health care more inclusive and transformative for all.<br />
 
 **Research Interest:** Evolutionary Psychology, Human Sexuality<br />
 
 **Email:** alicegao1994@gmail.com <br />
+
 **Resume:** [Click to Download](../files/Resume - Qianhui Gao.pdf)
 
 **Back Ground**<br />
