@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 
+
 My vision is to help everyone experience genuine laughter and heartfelt happiness✨
 
 I hold a joint Ph.D. from the East China Normal University and NYU Shanghai Joint Program, where I conducted empirical research on psychological interventions under the guidance of Professor Pekka Santtila. My work focuses on developing online self-help tools grounded in evolutionary psychology, with the goal of seamlessly integrating them into daily life to support diverse populations and maximize their impact.
