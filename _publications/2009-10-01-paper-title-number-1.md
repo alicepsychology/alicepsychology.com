@@ -1,5 +1,5 @@
 ---
-title: "An experimental study using a sexual strategies explanation to reduce homophobia toward gay men among lay people and healthcare professionals in China"
+title: "![image](images/HP image.jpg) An experimental study using a sexual strategies explanation to reduce homophobia toward gay men among lay people and healthcare professionals in China"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
