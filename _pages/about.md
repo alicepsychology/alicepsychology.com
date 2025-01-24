@@ -9,15 +9,15 @@ redirect_from:
 
 
 
-My vision is to help everyone experience genuine laughter and heartfelt happiness✨
+I aim to achieve equal access to high-quality mental health support for everyone.
 
 I hold a joint Ph.D. from the East China Normal University and NYU Shanghai Joint Program, where I conducted empirical research on psychological interventions under the guidance of Professor Pekka Santtila. My work focuses on developing online self-help tools grounded in evolutionary psychology, with the goal of seamlessly integrating them into daily life to support diverse populations and maximize their impact.
 
 My foundation in this field was built during my Master’s degree in Marriage and Family Therapy at Syracuse University, where I provided over 500 hours of face-to-face counseling to community members and honed my clinical skills through 170 hours of professional supervision. These hands-on experiences have equipped me with practical insights that deeply inform my current research.
 
-Today, I am dedicated to enhancing the accessibility and effectiveness of mental health services through innovative approaches and technology. My ultimate goal is to empower individuals to achieve inner peace and lasting happiness, making mental health care more inclusive and transformative for all.<br />
+Today, I am dedicated to enhancing the accessibility and effectiveness of mental health services through innovative approaches and technologies, particularly artificial intelligence.<br />
 
-**Research Interest:** Evolutionary Psychology, Human Sexuality<br />
+**Research Interest:** Digital Therapy, Evolutionary Psychology, Human Sexuality<br />
 
 **Email:** alicegao1994@gmail.com <br />
 
@@ -26,7 +26,7 @@ Today, I am dedicated to enhancing the accessibility and effectiveness of mental
 **Back Ground**<br />
 ---
 **East China Normal University-NYU Shanghai – Shanghai, China**<br />
-PhD, Applied Psychology (Sep 2020 - Mar 2025) <br />
+PhD, Applied Psychology (Sep 2020 - Dec 2024) <br />
 Thesis: Decreasing Negative Effects of Evolved Psychological Mechanisms: Evolutionary Perception Adjustment Interventions (EPAI)<br />
 
 **Syracuse University – Syracuse, NY**<br />
