@@ -4,14 +4,14 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
-main:
+# main:
   
-  - title: "Publications"
-    url: /publications/
+#   - title: "Publications"
+#     url: /publications/
 
-  - title: "On-going Projects"
-    url: /On-going Projects/
+#   - title: "On-going Projects"
+#     url: /On-going Projects/
 
-  - title: "Teaching"
-    url: /teaching/    
+#   - title: "Teaching"
+#     url: /teaching/    
     
