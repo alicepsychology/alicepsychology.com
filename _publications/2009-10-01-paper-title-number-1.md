@@ -3,12 +3,12 @@ title: "An experimental study using a sexual strategies explanation to reduce ho
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper examines the effectiveness of using Sexual Strategies Theory (SST) explanations to reduce homophobic attitudes among both laypeople and healthcare professionals in China, compared to a Minority Stress (MS) explanation and a control group with no explanation.'
+date: 2023-04-20
+venue: 'Frontiers in Psychology'
+paperurl: 'https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1143584/pdf'
+citation: 'Gao Q, Antfolk J, Santtila P (2023). "An experimental study using a sexual strategies explanation to reduce homophobia toward gay men among lay people and healthcare professionals in China." <i>Frontiers in Psychology</i>. doi: 10.3389/fpsyg.2023.1143584.'
 ---
 
-#The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+---
+
