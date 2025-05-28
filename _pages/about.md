@@ -55,7 +55,7 @@ Bachelor of Science, Applied Psychology (Sep 2013 - July 2017) <br />
 
 **[4]** Zheng, Y., Li, Q., Zhang, Y., Li, Q., Shen, H., **Gao, Q.**, & Zhou, S. (2017). Reward processing in gain versus loss context: An ERP study. _Psychophysiology_, _54_(7), 1040–1053. [https://doi.org/10.1111/psyp.12855](https://doi.org/10.1111/psyp.12855) [**Download**](../files/[4] Zheng-2017-Reward-processing-in-gain-versus-lo.pdf) <br />
 
-**[5]** Cui, Y., **Gao, Q.**, Liu, X., Zhou, S., & Jin, Y. (2016). Olfactory Impairments in Major Depressive Disorderfindings and perspectives. Medicine & Philosophy, 37, 60–67.[10.12014/j.issn.1002-0772.2016.08b.21](10.12014/j.issn.1002-0772.2016.08b.21) [**Download**](../files/[5] 抑郁症的嗅觉功能缺陷_发现与观点.pdf) <br />
+**[5]** Cui, Y., **Gao, Q.**, Liu, X., Zhou, S., & Jin, Y. (2016). Olfactory Impairments in Major Depressive Disorderfindings and perspectives. Medicine & Philosophy, 37, 60–67.[https://doi.org/10.12014/j.issn.1002-0772.2016.08b.21](https://doi.org/10.12014/j.issn.1002-0772.2016.08b.21) [**Download**](../files/[5] 抑郁症的嗅觉功能缺陷_发现与观点.pdf) <br />
 
 **Manuscripts In Preparation or Under Review**
 
