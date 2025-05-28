@@ -17,13 +17,12 @@ Trained as a marriage and family therapist at Syracuse University, I have provid
 
 Currently, I am expanding my research to explore the potential of generative AI in enhancing the personalization and delivery of psychological interventions.<br />
 
-**Research Interests:** <br />1. Integrating generative AI technologies into the design, personalization, and delivery of psychological interventions, with the goal of enhancing accessibility, engagement, and scalability.<br />
-2. Developing and evaluating theory-based interventions to improve mental health through cognitive and behavioral change, drawing on frameworks such as evolutionary psychology.
+**Research Interests:** <br />1. Integrating generative AI technologies into the design, personalization, and delivery of psychological interventions, with the goal of enhancing accessibility, engagement, and scalability.<br />2. Developing and evaluating theory-based interventions to improve mental health through cognitive and behavioral change, drawing on frameworks such as evolutionary psychology.
 <br />
 
 **Email:** alicegao1994@gmail.com <br />
 
-**CV 2025:** [Click to Download](..files/CV_QianhuiGao2025.pdf)
+**CV 2025:** [Click to Download](files/CV_QianhuiGao2025.pdf)
 
 **Education**<br />
 ---
