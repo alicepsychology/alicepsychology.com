@@ -11,7 +11,7 @@ redirect_from:
 
 I am dedicated to advancing accessible, evidence-based mental health support through interdisciplinary research and innovative technologies. 
 
-I earned my Ph.D. in Applied Psychology from the joint program between East China Normal University and NYU Shanghai, under the supervision of Professor Pekka Santtila. My research focuses on developing and evaluating psychological interventions—particularly online self-help tools grounded in evolutionary theory—with the goal of supporting diverse populations in real-world settings.
+I earned my Ph.D. in Applied Psychology from the joint program between East China Normal University and NYU Shanghai, under the supervision of Professor Pekka Santtila. My research focuses on developing and evaluating psychological interventions, particularly online self-help tools grounded in evolutionary theory, with the goal of supporting diverse populations in real-world settings.
 
 Trained as a marriage and family therapist at Syracuse University, I have provided over 500 hours of face-to-face counseling and received 170 hours of clinical supervision. These clinical experiences continue to inform my work on designing scalable, practical, and theory-driven mental health solutions.
 
